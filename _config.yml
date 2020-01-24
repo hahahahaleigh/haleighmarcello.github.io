@@ -5,7 +5,7 @@ description:        "History PhD student at UC Irvine."
 reading_time:       true
 words_per_minute:   200
 logo:               'https://static.tumblr.com/76f121607f3d8a38ac3d6a2bdc98b40a/2dyh2dm/r4rpwpyic/tumblr_static_6fvgctf0x38kogc4sgcwscogw.jpg'
-#background:         'assets/img/placeholder-big.jpg'
+background:         'https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Black_colour.jpg/1024px-Black_colour.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                //hahahahaleigh.github.io/haleighmarcello.github.io/
